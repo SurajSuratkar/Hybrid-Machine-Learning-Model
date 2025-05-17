@@ -1,0 +1,7 @@
+Hybrid-ML-Model/
+│
+├── apple_stock_data.csv
+├── Hybrid Machine Learning Model.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
